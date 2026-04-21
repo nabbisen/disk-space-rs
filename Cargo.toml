@@ -1,6 +1,6 @@
 [package]
 name = "disk-space"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 
 description = "Tiny lib for disk space info of os file system (cross-platform)."

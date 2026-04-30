@@ -1,10 +1,10 @@
 [package]
 name = "disk-space"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
 
 description = "Tiny lib for disk space info of os file system (cross-platform)."
-authors = ["nabbisen <nabbisen@scqr.net>"]
+authors = ["nabbisen"]
 license = "Apache-2.0"
 
 categories = ["filesystem"]
